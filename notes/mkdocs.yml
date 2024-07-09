@@ -1,0 +1,5 @@
+site_name: AZ-104 Study notes
+nav:
+  - Home: 'index.md'
+  - 'Azure Resource Manager':
+    - 'Resource Groups': 'azure-resource-manager/resource-groups/resource-groups.md'
