@@ -5,3 +5,4 @@ nav:
   - Home: 'index.md'
   - 'Azure Resource Manager':
     - 'Resource Groups': 'azure-resource-manager/resource-groups/resource-groups.md'
+    - 'Resources': 'azure-resource-manager/resources/resources.md'
