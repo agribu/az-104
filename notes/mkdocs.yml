@@ -3,6 +3,8 @@ theme:
   name: readthedocs
 nav:
   - Home: 'index.md'
+  - 'Azure Cloud Shell': 'cloud-shell/cloud-shell.md'
+  - 'Azure PowerShell': 'powershell/powershell.md'
   - 'Azure Resource Manager':
     - 'Resource Groups': 'azure-resource-manager/resource-groups/resource-groups.md'
     - 'Resources': 'azure-resource-manager/resources/resources.md'
